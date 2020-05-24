@@ -32,7 +32,7 @@ return (
 
 PlacesListScreen.navigationOptions = navData => {
   return {
-    headerTitle: 'All Placess',
+    headerTitle: 'All Places',
     headerRight: (
       <HeaderButtons HeaderButtonComponent={HeaderButton}>
         <Item
