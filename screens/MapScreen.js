@@ -12,7 +12,7 @@ const MapScreen = props => {
         latitude: 37.78,
         longitude: -122.43,
         latitudeDelta: 0.0922,
-        longitudeDelta: 0.421
+        longitudeDelta: 0.0421
     };
 
     const selectLocationHandler = event => {
